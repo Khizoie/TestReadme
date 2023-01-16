@@ -3,8 +3,8 @@
 
   
 ###  Firebase Realtime Database✔️👌
-###  Navigation Component✔️💪
+###  Navigation Component✔️💪😻
 ###  View Pager✔️🤯
-###  Shared Preferences✔️✌🏿
+###  Shared Preferences✔️✌🏿😵‍💫
 ###  Recycler View✔️💋
-###  Dialogs✔️👽
+###  Dialogs✔️👽💜💜
