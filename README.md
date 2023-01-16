@@ -3,6 +3,8 @@
 
   
 ###  ✔️Firebase Realtime Database✔️
-
-
-
+###  ✔️Navigation Component✔️
+###  ✔️View Pager✔️
+###   ✔️Shared Preferences✔️
+###  ✔️Recycler View✔️
+###   ✔️Dialogs✔️
