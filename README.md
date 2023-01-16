@@ -1,8 +1,8 @@
 
 # ⭐️🔥La Musica De Los Hombres🎸⭐️
 
-  
-###  Firebase Realtime Database✔️👌
+###  Single Activity Architecture✔️😱 
+###  Firebase Authentication✔️👌
 ###  Navigation Component✔️💪😻
 ###  View Pager✔️🤯
 ###  Shared Preferences✔️✌🏿😵‍💫
